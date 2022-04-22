@@ -4,8 +4,8 @@ I am Ali Binkowska
 - I'm currently working on my own project
 - I'm currently learning NLP and I'm looking for opportunity to work on Kaggle competitions focusing on NLP
 - 💬 Ask me about Machine Learning and Python
+- ⚡ Fun fact: I currently attend sailplane classes at local airport
 - You can reach me on [![LinkedIn][linkedin-shield]][linkedin-url]
-- - ⚡ Fun fact: I currently attend sailplane classes at local airport
 
 🎓 Qualifications
 - I have completed Deep Learning Nanodegree program with Udacity ![click](https://confirm.udacity.com/CNLLHZWY)
