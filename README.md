@@ -7,12 +7,12 @@ I am Ali Binkowska
 - ⚡ Fun fact: I currently attend sailplane classes at local airport
 - You can reach me on [![LinkedIn][linkedin-shield]][linkedin-url]
 
-🎓 Qualifications
+## 🎓 Qualifications
 - I have completed Deep Learning Nanodegree program with Udacity ![click](https://confirm.udacity.com/CNLLHZWY)
 - I have completed Machine Learning DevOps Engineer with Udacity ![click](https://confirm.udacity.com/KKEGWYJQ)
 - In the past of was Unix Admin
 
-🔥 Technologies I work with
+## 🔥 Technologies I work with
 - I work intensively on my Machine Learning skills
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -38,7 +38,7 @@ Jupyter Notebook 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA
 - And also know ![MLflow](https://mlflow.org/)
 
 
-📑 My latest blog post:
+## 📑 My latest blog post:
 - ![Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/succeding-at-machine-learning-devops-engineer-with-udacity/)
 
 
