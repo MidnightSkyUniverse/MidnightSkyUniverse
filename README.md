@@ -1,13 +1,20 @@
 ![name-shield]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
 ### Hi there 👋
 
+I am Ali Binkowska
+- I'm currently working on my own project
+- I'm currently learning NLP and I'm looking for opportunity to work on Kaggle competitions focusing on NLP
+- 💬 Ask me about Machine Learning and Python
+- You can reach me on [![LinkedIn][linkedin-shield]][linkedin-url]
 
-- 🌱 I’m currently learning Deep Learning class with ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
-- I am certified Machine Learning DevOps Engineer
+🎓 Qualifications
+- I have completed Deep Learning Nanodegree program with Udacity ![click](https://confirm.udacity.com/CNLLHZWY)
+- I have completed Machine Learning DevOps Engineer with Udacity ![click](https://confirm.udacity.com/KKEGWYJQ)
+- In the past of was Unix Admin
 
 - I work intensively on my Machine Learning skills
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
