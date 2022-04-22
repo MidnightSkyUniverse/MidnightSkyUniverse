@@ -1,8 +1,3 @@
-![name-shield]
-
-
-
-
 ### Hi there 👋
 
 I am Ali Binkowska
