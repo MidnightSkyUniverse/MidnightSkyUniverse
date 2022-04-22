@@ -38,7 +38,8 @@ Jupyter Notebook 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA
 
 - ⚡ Fun fact: I currently attend sailplane classes at local airport
 
-
+📑 My latest blog post:
+- ![Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/succeding-at-machine-learning-devops-engineer-with-udacity/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
