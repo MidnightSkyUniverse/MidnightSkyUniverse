@@ -11,6 +11,7 @@ I am Ali Binkowska
 - I have completed Machine Learning DevOps Engineer with Udacity ![click](https://confirm.udacity.com/KKEGWYJQ)
 - In the past of was Unix Admin
 
+🔥 Technologies I work with
 - I work intensively on my Machine Learning skills
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -33,7 +34,7 @@ I am Ali Binkowska
 - I work with
 Jupyter Notebook 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
+- And also know ![MLflow](https://mlflow.org/)
 
 - ⚡ Fun fact: I currently attend sailplane classes at local airport
 
