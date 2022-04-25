@@ -8,8 +8,8 @@ I am Ali Binkowska
 - You can reach me on [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ### 🎓 Qualifications
-- I have completed Deep Learning Nanodegree program with Udacity ![click](https://confirm.udacity.com/CNLLHZWY)
-- I have completed Machine Learning DevOps Engineer with Udacity ![click](https://confirm.udacity.com/KKEGWYJQ)
+- I have completed Deep Learning Nanodegree program with Udacity [click](https://confirm.udacity.com/CNLLHZWY)
+- I have completed Machine Learning DevOps Engineer with Udacity [click](https://confirm.udacity.com/KKEGWYJQ)
 - In the past of was Unix Admin
 
 ### 🔥 Technologies I work with
