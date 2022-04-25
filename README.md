@@ -20,7 +20,7 @@ I am Ali Binkowska
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-- You can find me on ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+- You can find me on [Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 - I primary work with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) on ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -35,11 +35,11 @@ I am Ali Binkowska
 - I work with
 Jupyter Notebook 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-- And also know ![MLflow](https://mlflow.org/)
+- And also know [MLflow](https://mlflow.org/)
 
 
 ### 📑 My latest blog post:
-- ![Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/succeding-at-machine-learning-devops-engineer-with-udacity/)
+- [Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/succeding-at-machine-learning-devops-engineer-with-udacity/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
