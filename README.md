@@ -39,7 +39,8 @@ Jupyter Notebook 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA
 
 
 ### 📑 My latest blog post:
-- [Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/succeding-at-machine-learning-devops-engineer-with-udacity/)
+- [Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/machine-learning-devops-engineer/)
+- [‘AI for Business Leaders’ with Udacity: Future of Business with Artificial Intelligence] (https://alibinkowska.co/ai-for-business-leaders/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
