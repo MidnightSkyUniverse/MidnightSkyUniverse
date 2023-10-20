@@ -10,7 +10,8 @@ I am Ali Binkowska
 ### 🎓 Qualifications
 - I have completed Deep Learning Nanodegree program with Udacity [click](https://confirm.udacity.com/CNLLHZWY)
 - I have completed Machine Learning DevOps Engineer with Udacity [click](https://confirm.udacity.com/KKEGWYJQ)
-- In the past of was Unix Admin
+- I have completed AI for Business Leaders training with Udacity [click](confirm.udacity.com/LGP7TKAK)
+
 
 ### 🔥 Technologies I work with
 - I work intensively on my Machine Learning skills
